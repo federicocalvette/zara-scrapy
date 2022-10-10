@@ -1,0 +1,4 @@
+{"nombre": "CAMISA ESTAMPADO PALMERAS", "precio": "UYU 2.190,00", "descripcion": "Camisa relaxed fit confeccionada en tejido satinado. Cintura el\u00e1stica ajustable con cord\u00f3n. Bolsillos laterales."}
+{"nombre": "CAMISA ESTRUCTURA EASY CARE", "precio": "UYU 1.690,00", "descripcion": "Camisa con estructura de f\u00e1cil cuidado y mantenimiento en el d\u00eda a d\u00eda."}
+{"nombre": "CAMISA ACTIVE", "precio": "UYU 1.990,00", "descripcion": "Camisa slim fit de cuello italiano abotonado en su interior. Manga larga acabada en pu\u00f1o con botones. Cierre frontal de botonadura."}
+{"nombre": "CAMISA LINO - ALGOD\u00d3N", "precio": "UYU 1.990,00", "descripcion": "Camisa relaxed fit confeccionada en tejido con mezcla de lino. Cuello solapa abotonado y manga larga con detalle de trabilla interior. Cierre frontal de botonadura."}
