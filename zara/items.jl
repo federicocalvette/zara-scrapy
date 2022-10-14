@@ -1,4 +1,20 @@
-{"nombre": "CAMISA ESTAMPADO PALMERAS", "precio": "UYU 2.190,00", "descripcion": "Camisa relaxed fit confeccionada en tejido satinado. Cintura el\u00e1stica ajustable con cord\u00f3n. Bolsillos laterales."}
-{"nombre": "CAMISA ESTRUCTURA EASY CARE", "precio": "UYU 1.690,00", "descripcion": "Camisa con estructura de f\u00e1cil cuidado y mantenimiento en el d\u00eda a d\u00eda."}
-{"nombre": "CAMISA ACTIVE", "precio": "UYU 1.990,00", "descripcion": "Camisa slim fit de cuello italiano abotonado en su interior. Manga larga acabada en pu\u00f1o con botones. Cierre frontal de botonadura."}
+{"nombre": "CAMISA OXFORD PREMIUM", "precio": "UYU 2.190,00", "descripcion": "Camisa regular fit de cuello abotonado y manga larga acabada en pu\u00f1o con bot\u00f3n. Detalle de bolsillo de plastr\u00f3n en pecho. Cierre frontal de botonadura."}
+{"nombre": "CAMISA JACQUARD GEOM\u00c9TRICO", "precio": "UYU 2.190,00", "descripcion": "Camisa regular fit. Cuello bowling y manga corta. Cierre frontal de botonadura."}
+{"nombre": "CAMISA ESTAMPADO CASSETTE", "precio": "UYU 2.190,00", "descripcion": "Camisa oversize fit. Cuello solapa y manga corta. Cierre frontal de botonadura."}
+{"nombre": "CAMISA FLUIDA", "precio": "UYU 2.190,00", "descripcion": "Camisa fluida regular fit. Cuello solapa y manga larga acabada en pu\u00f1o con bot\u00f3n. Cierre frontal de botonadura."}
+{"nombre": "CAMISA ESTRUCTURA RAYAS", "precio": "UYU 2.190,00", "descripcion": "Camisa regular fit confeccionada en tejido efecto punto. Cuello solapa y manga larga acabada en pu\u00f1o con bot\u00f3n. Cierre frontal de botonadura."}
+{"nombre": "CAMISA ESTRUCTURA EASY CARE", "precio": "UYU 1.790,00", "descripcion": "Camisa con estructura de f\u00e1cil cuidado y mantenimiento en el d\u00eda a d\u00eda."}
+{"nombre": "CAMISA EL\u00c1STICA", "precio": "UYU 2.190,00", "descripcion": "Camisa slim fit confeccionada en tejido con alta elasticidad. Cuello italiano y manga larga acabada en pu\u00f1o con bot\u00f3n. Cierre frontal de botonadura."}
+{"nombre": "CAMISA OXFORD PREMIUM", "precio": "UYU 2.190,00", "descripcion": "Camisa regular fit de cuello abotonado y manga larga acabada en pu\u00f1o con bot\u00f3n. Detalle de bolsillo de plastr\u00f3n en pecho. Cierre frontal de botonadura."}
+{"nombre": "CAMISA  100% LINO", "precio": "UYU 2.590,00", "descripcion": "Camisa regular fit confeccionada en tejido de lino. Cuello italiano y manga larga acabada en pu\u00f1o con bot\u00f3n. Bolsillo plastr\u00f3n en pecho. Cierre frontal de botonadura."}
 {"nombre": "CAMISA LINO - ALGOD\u00d3N", "precio": "UYU 1.990,00", "descripcion": "Camisa relaxed fit confeccionada en tejido con mezcla de lino. Cuello solapa abotonado y manga larga con detalle de trabilla interior. Cierre frontal de botonadura."}
+{"nombre": "CAMISA ESTAMPADO MARIPOSAS", "precio": "UYU 1.990,00", "descripcion": "Camisa relaxed fit. Cuello bowling y manga corta. Cierre frontal de botonadura."}
+{"nombre": "CAMISA JACQUARD GEOM\u00c9TRICO", "precio": "UYU 2.190,00", "descripcion": "Camisa regular fit. Cuello bowling y manga corta. Cierre frontal de botonadura."}
+{"nombre": "CAMISA ESTRUCTURA EASY CARE", "precio": "UYU 1.790,00", "descripcion": "Camisa con estructura de f\u00e1cil cuidado y mantenimiento en el d\u00eda a d\u00eda."}
+{"nombre": "CAMISA ESTRUCTURA EASY CARE", "precio": "UYU 1.690,00", "descripcion": "Camisa con estructura de f\u00e1cil cuidado y mantenimiento en el d\u00eda a d\u00eda."}
+{"nombre": "CAMISA ESTRUCTURA EASY CARE", "precio": "UYU 1.790,00", "descripcion": "Camisa con estructura de f\u00e1cil cuidado y mantenimiento en el d\u00eda a d\u00eda."}
+{"nombre": "CAMISA OXFORD PREMIUM", "precio": "UYU 2.190,00", "descripcion": "Camisa regular fit de cuello abotonado y manga larga acabada en pu\u00f1o con bot\u00f3n. Detalle de bolsillo de plastr\u00f3n en pecho. Cierre frontal de botonadura."}
+{"nombre": "CAMISA LYOCELL", "precio": "UYU 2.190,00", "descripcion": "Camisa relaxed fit confeccionada en tejido de lyocell. Cuello solapa y manga corta. Cierre frontal de botonadura."}
+{"nombre": "CAMISA ACTIVE", "precio": "UYU 1.990,00", "descripcion": "Camisa slim fit de cuello italiano abotonado en su interior. Manga larga acabada en pu\u00f1o con botones. Cierre frontal de botonadura."}
+{"nombre": "SOBRECAMISA CONFORT", "precio": "UYU 2.190,00", "descripcion": "Sobrecamisa regular fit. Cuello solapa y manga larga acabada en pu\u00f1o con bot\u00f3n. Bolsillos de plastr\u00f3n con solapa en pecho. Cierre frontal con botones a presi\u00f3n."}
+{"nombre": "SOBRECAMISA PANA", "precio": "UYU 2.190,00", "descripcion": "Sobrecamisa relaxed fit con cuello solapa y manga larga acabada en pu\u00f1o con bot\u00f3n. Bolsillo plastr\u00f3n en pecho. Cierre frontal de botonadura."}

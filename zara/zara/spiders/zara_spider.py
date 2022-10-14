@@ -1,15 +1,16 @@
 import scrapy
 from zara.items import ZaraItem
+from zara.spiders import find_start_urls
+import random
 
 class ZaraSpider(scrapy.Spider):
     name = 'zara'
     allowed_domains = ['zara.com']
-    start_urls = [
-        'https://www.zara.com/uy/es/camisa-estampado-palmeras-p06085330.html?v1=184203425&v2=2135647',
-        'https://www.zara.com/uy/es/camisa-lino---algodon-p01063410.html?v1=177591967&v2=2135647',
-        'https://www.zara.com/uy/es/camisa-active-p05445306.html?v1=202796893&v2=2135647',
-        'https://www.zara.com/uy/es/camisa-estructura-easy-care-p07545401.html?v1=216142848&v2=2135647'
-    ]
+    start_urls = find_start_urls.get_start_urls()
+
+    lines = open(f'./zara/user_agent_fake.txt').read().splitlines()
+    user_agent = random.choice(lines)
+
 
     def parse(self, response):
         producto = ZaraItem()
@@ -20,4 +21,4 @@ class ZaraSpider(scrapy.Spider):
         producto['descripcion'] = response.xpath('//div[@class="expandable-text__inner-content"]/p/text()').extract_first()
         
         yield producto
-    
+ 
